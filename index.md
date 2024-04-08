@@ -24,7 +24,7 @@ Though I strive for a great work-life balance, I put a lot of effort into all th
 
 In addition, I have interned at two companies as a software engineer over the summer of 2023, namely [Insightly Analytics](https://www.hivel.ai/) (based in Hyderabad, India) and [Epifi Technologies](https://fi.money/) (based in Bangalore, India). These have been extremely fulfilling experiences and I learned more about software engineering and work culture through these experiences than I ever have in a college course.
 > [!NOTE]
-> I'm hoping CSE 110 will change this, though! Looking forward to all the learning this quarter. [This](README.md) is the link to my CSE 110 repository's README file, and [this](screenshots/terminal) is the link to some of the work I did for Lab 1.
+> I'm hoping CSE 110 will change this, though! Looking forward to all the learning this quarter. [This](README.md) is the link to my CSE 110 repository's README file, and [this](screenshots/terminal.png) is the link to some of the work I did for Lab 1.
 
 Here's a list of things I'm hoping to get out of CSE 110:
 - [ ] Work with exceptional students who will soon become the face of the industry.
